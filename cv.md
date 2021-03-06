@@ -12,10 +12,10 @@ I have been learning programming on my own for 1 year. During this time, I manag
 
 ## Key Skills
 
-*-HTML; 
+* -HTML; 
 -CSS; 
 -JavaScript ;
--PHP; *
+-PHP;  *
 
 ## Experience
 
